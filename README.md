@@ -49,7 +49,7 @@ cd D:\GitHub\wku_drf_web\wku_textbook
 
 python manage.py runserver
 
-![](.\python%20manage.py%20runserver.png)
+![]([.\python%20manage.py%20runserver.png](https://github.com/UnknownCloud1024/wku_drf_web/blob/main/python%20manage.py%20runserver.png))
 
 ### 已完成的部分
 
