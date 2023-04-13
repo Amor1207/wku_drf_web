@@ -49,7 +49,7 @@ cd D:\GitHub\wku_drf_web\wku_textbook
 
 python manage.py runserver
 
-![](https://github.com/UnknownCloud1024/wku_drf_web/blob/main/api%20example.png)
+![](https://github.com/UnknownCloud1024/wku_drf_web/blob/main/python%20manage.py%20runserver.png)
 
 ### 已完成的部分
 
@@ -100,7 +100,7 @@ http://127.0.0.1:8000/admin/
 
 即可登入后台管理界面
 
-![](.\back%20ui.png)
+![](https://github.com/UnknownCloud1024/wku_drf_web/blob/main/back%20ui.png)
 
 #### API
 
@@ -110,11 +110,11 @@ http://127.0.0.1:8000/api/
 
 进入后台接口界面
 
-![](.\api.png)
+![](https://github.com/UnknownCloud1024/wku_drf_web/blob/main/api.png)
 
 具体例子，如api需要修改请修改对应的序列化器和视图文件
 
-![](.\api%20example.png)
+![](https://github.com/UnknownCloud1024/wku_drf_web/blob/main/api%20example.png)
 
 ### 未完成的部分
 
