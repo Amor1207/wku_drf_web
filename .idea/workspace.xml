@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30352225-1469-4018-a8ee-23e7bfa70509" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wku_textbook/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/wku_textbook/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wku_textbook/textbook/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/wku_textbook/textbook/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wku_textbook/textbook/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/wku_textbook/textbook/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wku_textbook/textbook/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/wku_textbook/textbook/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wku_textbook/textbook/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/wku_textbook/textbook/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +37,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GitHub/exhentai_gallery_manager&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.15.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.15.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitHub/wku_drf_web&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -124,6 +126,11 @@
       <workItem from="1678884688928" duration="2031000" />
       <workItem from="1678887167535" duration="610000" />
       <workItem from="1678888981255" duration="592000" />
+      <workItem from="1678890392480" duration="32000" />
+      <workItem from="1678918869892" duration="3256000" />
+      <workItem from="1678933822769" duration="747000" />
+      <workItem from="1678959912179" duration="2541000" />
+      <workItem from="1681390702110" duration="2360000" />
     </task>
     <servers />
   </component>
